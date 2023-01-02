@@ -1,0 +1,77 @@
+Github
+LINQ
+TFS
+Asp.net core web api 6 dot net framework
+
+
+C#
+Asp.Net
+ADO.Net
+Asp.Net MVC
+Asp.Net Web API
+Asp.net Core MVC/ Web API
+Dot Net Framework 6
+LINQ
+Entity Framework
+SQL Server
+HTML
+JavaScript
+Css
+TypeScript
+Jquery
+Angular JS
+Solid Principles
+Design Patterns
+Architecture  Design
+
+AWS
+Azure
+Github
+TFS
+
+
+
+Hard Skills:
+++++++++++++++++++++++++++++++++++++++
+C#
+ASP.NET
+.NET Framework
+MVC
+SQL Server
+Entity Framework
+JavaScript
+jQuery
+HTML
+CSS
+Visual Studio
+Git
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Top 20 .NET Developer Resume Skills:
+Hard Skills:
+C#
+ASP.NET
+.NET Framework
+MVC
+SQL Server
+Entity Framework
+JavaScript
+jQuery
+HTML
+CSS
+Visual Studio
+Git
+Soft Skills:
+Problem Solving
+Analysis
+Design
+Development
+Testing
+Deployment
+Maintenance
+Support
+
+
+Angular 
+Azure
